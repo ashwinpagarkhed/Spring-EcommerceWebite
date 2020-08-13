@@ -1,2 +1,2 @@
-# Spring-Ecommerce Website
+# Spring Boot-Ecommerce Website
 This is a full stack development project, in which the coding done for both front-end and backend has been done. A considerable amount of work is done developing the front-end code using HTML, CSS, JavaScript, JQuery, Thymeleaf, bootstrap etc. Thymeleaf is the latest Java template engine, which is supposed to replace previous JSP way (JSP is discontinued but is still being used out there) and it is the official template engine backed by Spring Framework, though it's not the only one you can choose. The backend side id developed using latest Spring technologies -Spring Security, Spring Data and etc. Then, we have MySQL as a powerful relational database. 
